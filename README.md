@@ -1,5 +1,5 @@
 # learn-rust_lang
-learn-rust_lang 学习Rust语言
+learn-rust_lang
 
 ## License
 learn-rust_lang is licensed under either of
