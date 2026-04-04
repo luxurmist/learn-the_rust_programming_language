@@ -1,5 +1,9 @@
+# Rust
 # Build
-/target
-
+target
 # Cargo
 Cargo.lock
+
+# Zig
+.zig-cache
+zig-out
